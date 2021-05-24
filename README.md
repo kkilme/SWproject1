@@ -1,3 +1,3 @@
-JoSeojin 20213086
+20213086 JoSeojin
 
 Kookmin University. Software.
